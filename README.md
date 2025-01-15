@@ -3,7 +3,11 @@
 </p>
 
 # TESLO API
-1. levantar docker
+1. clonar proyecto.
+2. ```yarn install```
+3. clonar  el archivo ```env.template``` y renombrarlo a ```.env```
+4. cambiar las variables de entorno
+5. levantar docker
 ```
 docker-compose up - d
 ```
