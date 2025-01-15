@@ -11,3 +11,13 @@
 ```
 docker-compose up - d
 ```
+
+6. ejecutar seed
+```
+localhost:3000/api/seed
+```
+
+7. levantar
+```
+yarn start:dev
+```
